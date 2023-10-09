@@ -30,10 +30,10 @@ In [source](source/) directory you will find the source files for the PCB and th
 
 ## Gallery
 
-[](img/pur-pla-grey-top.jpg)
-[](img/pur-pla-purple-top.jpg)
-[](img/pur-pla-purple-front.jpg)
-[](img/pur-steel-top.jpg)
-[](img/pur-steel-front.jpg)
-[](img/pur-steel-side.jpg)
-[](img/pur-steel-bottom.jpg)
+![](img/pur-pla-grey-top.jpg)
+![](img/pur-pla-purple-top.jpg)
+![](img/pur-pla-purple-front.jpg)
+![](img/pur-steel-top.jpg)
+![](img/pur-steel-front.jpg)
+![](img/pur-steel-side.jpg)
+![](img/pur-steel-bottom.jpg)
