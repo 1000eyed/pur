@@ -26,14 +26,14 @@ PUR utilizes ZMK keyboard firmware. You can find my personal ZMK config [here](h
 
 ## Open source
 
-In [source](source/) directory you will find the source files for the PCB and the cases. You may use them however you like, I kindly ask you though to link back to my project, should you build or update something.
+In [source](source/) directory you will find the source files for the PCB and the cases. You may use them however you like, I kindly ask you though to link back to my project, should you build or update something. Which I strongly encourage, as there are a handful of design pitfalls.
 
 ## Gallery
 
-(img/pur-pla-grey-top.jpg)
-(img/pur-pla-purple-top.jpg)
-(img/pur-pla-purple-front.jpg)
-(img/pur-steel-top.jpg)
-(img/pur-steel-front.jpg)
-(img/pur-steel-side.jpg)
-(img/pur-steel-bottom.jpg)
+[](img/pur-pla-grey-top.jpg)
+[](img/pur-pla-purple-top.jpg)
+[](img/pur-pla-purple-front.jpg)
+[](img/pur-steel-top.jpg)
+[](img/pur-steel-front.jpg)
+[](img/pur-steel-side.jpg)
+[](img/pur-steel-bottom.jpg)
