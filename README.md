@@ -26,7 +26,7 @@ PUR utilizes ZMK keyboard firmware. You can find my personal ZMK config [here](h
 
 ## Open source
 
-In [source](source/) directory you will find the source files for the PCB and the cases. You may use them however you like, I kindly ask you though to link back to my project, should you build or update something. Which I strongly encourage, as there are a handful of design pitfalls.
+In [source](source/) directory you will find the source files for the PCB and the cases. You may use them however you like, I kindly ask you though to link back to my project, should you build it or update something. I strongly encourage the latter, as there is a handful of design pitfalls.
 
 ## Gallery
 
