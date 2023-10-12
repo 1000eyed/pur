@@ -40,7 +40,7 @@ Make sure you read all the guideline before you begin. The battery connector pla
 | 10    | Magnets                              | Cylindrical 2x4mm                         |
 | 5     | Adhesive silicon feet                | 10mm                                      |
 | drop  | Superglue                            |                                           |
-| small strip  | two sided adhesive tape       |                                           |
+| small strip  | Two sided adhesive tape       |                                           |
 
 - Drive heat inserts into designated holes on the top case using a solder iron.
 - Insert magnets to the both case parts, securing them with superglue. Mind polarity, so that the case closes.
@@ -61,8 +61,8 @@ Turn on and enjoy your PUR!
 | 1     | Metal sheet case frame               | I used 1.5mm thick stainless steel        |
 | 6     | Standoffs                            | M2 5mm height                             |
 | 6     | Hex bolts                            | M2x10                                     |
-| 1     | Adhesive silicon feet                | any size                                  |
-| small strip  | two sided adhesive tape       |                                           |
+| 1     | Adhesive silicon feet                | Any size                                  |
+| small strip  | Two sided adhesive tape       |                                           |
 
 - Glue one silicon leg next to nice!view socket. This will stabilize the display so that it does not fall into the case under pressure.
 - Drive the pins out of the socket header which came with nice!view and insert them into the sockets on the PCB. Do not solder the display yet.
