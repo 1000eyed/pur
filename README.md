@@ -12,7 +12,7 @@ This keyboard reinterprets the beautiful design of an offset space row offered b
 - rotary encoder support.
 - bluetooth and USB connection.
 - nice!view display.
-- nice!nano MCU
+- nice!nano MCU.
 - ZMK keyboard firmware support.
 - open source.
 
