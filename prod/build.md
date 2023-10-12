@@ -58,7 +58,7 @@ Turn on and enjoy your PUR!
   ### Part list
 | #     | name                                 | comments                                  |
 |-------|--------------------------------------|-------------------------------------------|
-| 1     | Metal sheet case frame               | Order at fabricator of your choice        |
+| 1     | Metal sheet case frame               | I used 1.5mm thick stainless steel        |
 | 6     | Standoffs                            | M2 5mm height                             |
 | 6     | Hex bolts                            | M2x10                                     |
 | 1     | Adhesive silicon feet                | any size                                  |
