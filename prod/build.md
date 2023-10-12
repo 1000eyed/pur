@@ -31,4 +31,43 @@ Make sure you read all the guideline before you begin. The battery connector pla
 
   ## Assemble the 3D printed case
 
+  ### Part list
+| #     | name                                 | comments                                  |
+|-------|--------------------------------------|-------------------------------------------|
+| 1     | 3D printed keyboard case             | Order at fabricator of your choice        |
+| 6     | Heat inserts                         | M2x4x3.5                                  |
+| 6     | Hex bolts                            | M2x4                                      |
+| 10    | Magnets                              | Cylindrical 2x4mm                         |
+| 5     | Adhesive silicon feet                | 10mm                                      |
+| drop  | Superglue                            |                                           |
+| small strip  | two sided adhesive tape       |                                           |
+
+- Drive heat inserts into designated holes on the top case using a solder iron.
+- Insert magnets to the both case parts, securing them with superglue. Mind polarity, so that the case closes.
+- Attach 4 rubber feet to the bottom case.
+- Glue one silicon leg next to nice!view socket. This will stabilize the display so that it does not fall into the case under pressure.
+- Drive the pins out of the socket header which came with nice!view and insert them into the sockets on the PCB. Do not solder the display yet.
+- Attach the PCB to the top case with bolts and close the case.
+- Now carefully insert the nice!view into the case window (it will fit snug) and solder the pins.
+- Plug in the battery and attach it to the case or PCB with a strip of adhesive tape.
+
+  Turn on and enjoy your PUR!
+
   ## Assemble the bent metal sheet case
+
+  ### Part list
+| #     | name                                 | comments                                  |
+|-------|--------------------------------------|-------------------------------------------|
+| 1     | Metal sheet case frame               | Order at fabricator of your choice        |
+| 6     | Standoffs                            | M2 5mm height                             |
+| 6     | Hex bolts                            | M2x10                                     |
+| 1     | Adhesive silicon feet                | any size                                  |
+| small strip  | two sided adhesive tape       |                                           |
+
+- Glue one silicon leg next to nice!view socket. This will stabilize the display so that it does not fall into the case under pressure.
+- Drive the pins out of the socket header which came with nice!view and insert them into the sockets on the PCB. Do not solder the display yet.
+- Attach the PCB to the case with bolts and standoffs.
+- Now carefully insert the nice!view into the case window (it will fit snug) and solder the pins.
+- Plug in the battery and attach it to the case or PCB with a strip of adhesive tape.
+
+  Turn on and enjoy your PUR!
