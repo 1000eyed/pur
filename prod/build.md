@@ -29,7 +29,7 @@ Make sure you read all the guideline before you begin. The battery connector pla
   **Issue #2: IMPORTANT!** GND and BAT nets are reversed on this PCB, i.e. the oval pin is connected to GND net. When connecting the battery, make sure that positive battery wire (RED) feeds RAW on nice!nano, and negative wire (BLACK) feeds GND.
 - Solder the switches and the encoder. There is no plate to keep switches in place, so take to time to align them properly. I like to put keycaps before soldering and align everything by eye.
 
-  ## Assemble the 3D printed case
+## Assemble the 3D printed case
 
   ### Part list
 | #     | name                                 | comments                                  |
@@ -51,9 +51,9 @@ Make sure you read all the guideline before you begin. The battery connector pla
 - Now carefully insert the nice!view into the case window (it will fit snug) and solder the pins.
 - Plug in the battery and attach it to the case or PCB with a strip of adhesive tape.
 
-  Turn on and enjoy your PUR!
+Turn on and enjoy your PUR!
 
-  ## Assemble the bent metal sheet case
+## Assemble the bent metal sheet case
 
   ### Part list
 | #     | name                                 | comments                                  |
@@ -70,4 +70,4 @@ Make sure you read all the guideline before you begin. The battery connector pla
 - Now carefully insert the nice!view into the case window (it will fit snug) and solder the pins.
 - Plug in the battery and attach it to the case or PCB with a strip of adhesive tape.
 
-  Turn on and enjoy your PUR!
+Turn on and enjoy your PUR!
